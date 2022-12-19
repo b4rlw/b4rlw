@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jk.barlow@icloud.com**
 
-- ⚡ Fun fact **- In my free time, I enjoy playing music and climbing.**
+- ⚡ Fun fact **- In my free time, I enjoy playing guitar and climbing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
