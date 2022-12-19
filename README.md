@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/b4rlw?tab=repositories](https://github.com/b4rlw?tab=repositories)
 
-- 📫 How to reach me **jk.barlow@icloud.com**
+- 📫 How to reach me: **jk.barlow@icloud.com**
 
 - ⚡ Fun fact **- In my free time, I enjoy playing guitar and climbing.**
 
