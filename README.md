@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan.</h1>
 <h3 align="center">An aspiring data scientist from Scotland.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=b4rlw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="b4rlw" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b4rlw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="b4rlw" /> </p>
 
 - 🔭 I’m currently working on **applications of machine learning in science and finance.**
 
