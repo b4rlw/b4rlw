@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kedro and PySpark.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/b4rlw?tab=repositories](https://github.com/b4rlw?tab=repositories)
+- 👨‍💻 Some projects of mine are available at [https://github.com/b4rlw?tab=repositories](https://github.com/b4rlw?tab=repositories)
 
 - 📫 How to reach me: **jk.barlow@icloud.com**
 
