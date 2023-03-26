@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **applications of machine learning in science and finance.**
 
-- 🌱 I’m currently learning **Kedro and PySpark.**
+- 🌱 I’m currently learning **PySpark and Terraform.**
 
 - 👨‍💻 Some projects of mine are available at [https://github.com/b4rlw?tab=repositories](https://github.com/b4rlw?tab=repositories)
 
